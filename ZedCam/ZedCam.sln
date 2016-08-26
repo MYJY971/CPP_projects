@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BackgroundSubstration", "Ba
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZED_background_subtraction", "..\..\..\..\Users\Nabil\Desktop\ZED SDK\samples\gpu\cuda\background subtraction\build\ZED_background_subtraction.vcxproj", "{72951FB2-90B1-3464-A9FD-590DDCDEA4D4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZED_Tracking_Viewer", "..\..\..\..\Users\Nabil\Desktop\ZED SDK\samples\cpu\Tracking Viewer\build\ZED_Tracking_Viewer.vcxproj", "{93AA5D31-7C19-38CB-8534-113E867C904D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,22 @@ Global
 		{72951FB2-90B1-3464-A9FD-590DDCDEA4D4}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|x64
 		{72951FB2-90B1-3464-A9FD-590DDCDEA4D4}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
 		{72951FB2-90B1-3464-A9FD-590DDCDEA4D4}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.Debug|Win32.Build.0 = Debug|Win32
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.Debug|x64.ActiveCfg = Debug|x64
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.Debug|x64.Build.0 = Debug|x64
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.MinSizeRel|Win32.ActiveCfg = MinSizeRel|Win32
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.MinSizeRel|Win32.Build.0 = MinSizeRel|Win32
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.MinSizeRel|x64.ActiveCfg = MinSizeRel|x64
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.MinSizeRel|x64.Build.0 = MinSizeRel|x64
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.Release|Win32.ActiveCfg = Release|Win32
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.Release|Win32.Build.0 = Release|Win32
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.Release|x64.ActiveCfg = Release|x64
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.Release|x64.Build.0 = Release|x64
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.RelWithDebInfo|Win32.ActiveCfg = RelWithDebInfo|Win32
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.RelWithDebInfo|Win32.Build.0 = RelWithDebInfo|Win32
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.RelWithDebInfo|x64.ActiveCfg = RelWithDebInfo|x64
+		{93AA5D31-7C19-38CB-8534-113E867C904D}.RelWithDebInfo|x64.Build.0 = RelWithDebInfo|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
